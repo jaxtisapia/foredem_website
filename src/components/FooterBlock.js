@@ -96,7 +96,7 @@ export class FooterBlock extends Component {
                     <ul>
                         <li><a onClick={this.showOurMission}>Our Mission</a></li>
                         <li><a onClick={this.showOurVision}>Our Vision</a></li>
-                        <li><a onClick={this.showOurAchievement}>Our Achievements</a></li>
+                        {/*<li><a onClick={this.showOurAchievement}>Our Achievements</a></li>*/}
                         <li><a onClick={this.showContactUs}>Contact Us</a></li>
                     </ul>
 
@@ -111,9 +111,9 @@ export class FooterBlock extends Component {
 
                     <ul>
                         {/*<li><a target="_blank" href="#">Twitter</a></li>*/}
-                        <li><a target="_blank"  href="https://www.facebook.com/werisefoundationtech/">Facebook</a></li>
-                        <li><a target="_blank" href="https://www.instagram.com/werisefoundation_gh/">Instagram</a></li>
-                        <li><a onClick={this.showGallery}>Events and Programmes</a></li>
+                        <li><a target="_blank"  href="https://www.facebook.com/">Facebook</a></li>
+                        <li><a target="_blank" href="https://www.instagram.com/">Instagram</a></li>
+                        {/*<li><a onClick={this.showGallery}>Events and Programmes</a></li>*/}
                     </ul>
 
                 </div>
