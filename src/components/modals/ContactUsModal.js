@@ -16,14 +16,14 @@ export function ContactUsModal(props){
            <div>
 
                <ul className="margin-medium list-items">
-              <li><span>Prince Abdulai Baba Alhassan</span><br/>
+              <li><span>Abdulai Baba Alhassan</span><br/>
                   Adjiriganor East Legon<br/>
                   GPS  GD -188-7629 #26 Okpewuo Mensah Ave.
                   <br/>
                werisefoundation@hotmail.com<br/>
                   +233-24-412-0134</li>
 
-                   <li><span>Prince Abdulai Baba Alhassan</span><br/>
+                   <li><span>Abdulai Baba Alhassan</span><br/>
                        Buglan Area, Tamale<br/>
                        House #E446
                        <br/>
