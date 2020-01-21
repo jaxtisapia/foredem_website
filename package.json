@@ -9,6 +9,7 @@
     "react-grid-gallery": "^0.4.6",
     "react-scripts": "1.0.14"
   },
+  "homepage": "http://foredem.org",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
