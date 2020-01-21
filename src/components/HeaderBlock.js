@@ -14,9 +14,9 @@ export class HeaderBlock extends Component{
 
                 <img style={{maxWidth: '200px', maxHeight: '200px'}} src={logo} />
 
-                <h1>Sub-motto goes here</h1>
+                <h1 style={{fontColor:"#34495e", fontWeight:700}}>WE SHAPE, WE TRANSFORM, WE RECONCILE.</h1>
 
-                <span className="tagline">MAIN MOTTO GOES HERE</span>
+                {/*<span className="tagline">WE SHAPE, WE TRANSFORM, WE RECONCILE.</span>*/}
 
             </div>
         );
