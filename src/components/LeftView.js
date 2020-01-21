@@ -22,19 +22,19 @@ import React, { Component } from 'react'
 //     "http://andykristian.com/wp-content/uploads/2011/06/15.jpg"
 // ];
 
-let bg1 = "http://res.cloudinary.com/du43ktr2x/image/upload/v1507316805/bg1_nxwwcl.jpg";
-let bg2 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316805/bg2_hgeeiu.jpg";
-let bg3 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316806/bg3_twu5if.jpg";
-let bg4 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316806/bg4_yaqq9o.jpg";
-let bg5 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316807/bg5_blrvme.jpg";
-let bg6 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316807/bg6_wjfce4.jpg";
-let bg7 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316807/bg7_vt5gby.jpg";
-let bg8 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316807/bg8_tkbsff.jpg";
-let bg9 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316808/bg9_urhqv4.jpg";
-let bg10 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316808/bg10_nqgtdh.jpg";
-let bg11 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316808/bg11_ciwnum.jpg";
-let bg12 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316808/bg12_xjzfrs.jpg";
-let bg13 ="http://res.cloudinary.com/du43ktr2x/image/upload/v1507316809/bg13_wrxkgq.jpg";
+let bg1 = "https://borgenproject.org/wp-content/uploads/African-Poverty.jpg";
+let bg2 ="https://africanarguments.org/wp-content/uploads/2013/01/Africa_children_DRC-1024x682.jpg";
+let bg3 ="https://www.artflakes.com/artwork/products/514956/zoom/dsc08242-1-1-1.jpg?1310683485";
+let bg4 ="http://jon-atkinson.com/Large%20Images%204%20bigger/Black_And_White%201.jpg";
+let bg5 ="https://cdn.pixabay.com/photo/2015/03/07/19/28/children-663392_1280.jpg";
+let bg6 ="https://c.wallhere.com/photos/cd/46/poverty_africa_girls_boy_boys_girl_kids_children-1100177.jpg";
+let bg7 ="https://cdn.pixabay.com/photo/2015/02/24/19/36/girl-647714_1280.jpg";
+let bg8 ="https://images.unsplash.com/photo-1495556650867-99590cea3657?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60";
+let bg9 ="https://c.wallhere.com/photos/69/2f/africa_zambia_ordinaryafrica_bicycle_everydayafrica_lifeinafrica_katete_streetlife-858490.jpg";
+let bg10 ="http://yesofcorsa.com/wp-content/uploads/2018/07/Child-And-Poverty-Best-Wallpaper-1024x576.jpg";
+let bg11 ="https://sites.google.com/a/nv.ccsd.net/poverty-in-nicaragua/about/mission/28926e5e4a40b7f90eb7b098f0fd7222.jpg?attredirects=0";
+let bg12 ="https://images.theconversation.com/files/241246/original/file-20181018-67161-q6ladm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip";
+let bg13 ="https://childphotocompetition.com/wp-content/uploads/2014/08/2nd-place-ID-277-documentary-street.jpg";
 
 const image_urls = [
     bg1, bg2, bg3, bg4, bg5, bg6, bg7, bg8, bg9, bg9, bg10, bg11, bg12, bg13
