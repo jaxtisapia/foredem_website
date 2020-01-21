@@ -21,10 +21,14 @@ export function ContactUsModal(props){
                   GPS  GD -188-7629 #26 Okpewuo Mensah Ave.
                   <br/>
                werisefoundation@hotmail.com<br/>
-                  +233243971045</li>
+                  +233-24-412-0134</li>
 
+                   <li><span>Prince Abdulai Baba Alhassan</span><br/>
+                       Buglan Area, Tamale<br/>
+                       House #E446
+                       <br/>
+                   </li>
                </ul>
-
 
            </div>
         </Modal>
