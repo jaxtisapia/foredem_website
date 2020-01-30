@@ -3,7 +3,7 @@
  */
 import React, {Component} from 'react'
 
-let logo = "http://res.cloudinary.com/du43ktr2x/image/upload/v1507317161/logo_ilgtdl.jpg";
+let logo = "https://o.remove.bg/downloads/1398b8a6-f0af-4f04-a27c-5e9987c2013b/IMG-20191210-WA0009-removebg-preview.png";
 
 export class HeaderBlock extends Component{
 
