@@ -3,7 +3,7 @@
  */
 import React, {Component} from 'react'
 
-let logo = "https://o.remove.bg/downloads/1398b8a6-f0af-4f04-a27c-5e9987c2013b/IMG-20191210-WA0009-removebg-preview.png";
+let logo = "https://user-images.githubusercontent.com/47640619/73796428-0fe40880-47a5-11ea-93d2-14e3bd3f618e.jpg";
 
 export class HeaderBlock extends Component{
 
