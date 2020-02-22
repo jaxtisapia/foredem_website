@@ -22,7 +22,7 @@ export function ContactUsModal(props) {
             <br />
             GPS GD -188-7629 #26 Okpewuo Mensah Ave.
             <br />
-            foredemfounder@gmail.com
+            foredemgh@yahoo.com
             <br />
             +233-24-412-0134
           </li>

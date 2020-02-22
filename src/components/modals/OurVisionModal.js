@@ -16,7 +16,7 @@ export function OurVisionModal(props) {
                 footer={null}>
                 <div>
                     <ul className="margin-medium list-items">
-                        <li>To establish an independent institution to train youth and women in leadership skills to enhance good democratic governance in the country</li>
+                        <li>To establish an independent institution to train youth and women in leadership skills to enhance good democratic governance</li>
                     </ul>
                 </div>
             </Modal>

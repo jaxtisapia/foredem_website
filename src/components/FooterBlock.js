@@ -44,7 +44,7 @@ export class FooterBlock extends Component {
   hideAboutFounder = () => this.setState({ aboutFounderVisible: false });
 
   showAboutUs = () => this.setState({ aboutUsVisible: true });
-  hideAboutUs = () => this.setState({ aboutUsVisible: true });
+  hideAboutUs = () => this.setState({ aboutUsVisible: false });
 
   render() {
     return (

@@ -16,155 +16,68 @@ export function AboutUsModal(props) {
       <div>
         <ul className="margin-medium list-items">
           <li>
-            There are instances when issues crop up and pit various political
-            parties against one another, a classical example is the
-            controversial Representative of People's Amendment Bill (ROPAB)which
-            ïsn now (ROPAL).Since it has been passed into a law in 2007.This
-            issue divided the government and the opposition by then.
-          </li>
-
-          <li>
-            Even at this time,many Ghanaians did not and still did not know what
-            this law is all about. Another important bill which is before
-            parliement is the Right To Information Bill (RTI)that has taken so
-            long for it's passage by successful government.The foundation
-            identifies such a lapse as one of its primary objectives. There are
-            several issues that of national importance that need to be delved
-            into such as the need for emvirommental consciousness-keeping our
-            urban and rural areas clean.
-          </li>
-
-          <li>
-            The fotndation has its objectives the contribution to the mantenance
-            of peace which is a necessary ingredient of progress. conflicts
-            between different tribes have occured in various parts of the
-            country. Examples of such conflicts are the
-            Nanumba-Konkomba,Kusasi-Mamprusi, Bimoba-Konkomba,Gonja-Nawuri and
-            Dagbamba-Konkomba conflicts etc are just case in point.it's the
-            belief of the organization that these conflicts occureds largely as
-            a results of differences in cultural practice,land, family and other
-            factors. The institution of chieftaincy plays a vital role in the
-            culture of all the various ethnic groups in the country,chiefs are
-            the custodians of our cultural.
-          </li>
-
-          <li>
-            <h3>Who's Killing Ghana?</h3>
-          </li>
-
-          <li>
-            The blame for what Ghana has become falls on you and me. Not
-            Rawlings, not Kuffour , not Mahama and definitely not the civil and
-            human rights advocate Akufo-Addo.
-          </li>
-
-          <li>
-            Our wickedness stinks to the high heavens as we go about our daily
-            lives, pulling down everyone and everything to become rich.
-          </li>
-
-          <li>
-            We import substandard Chinese products, fake drugs and expired baby
-            food unfit for human consumption, destroying the environment with
-            galamsay aided by the Chinese and we have the nerve to complain
-            about leadership and governance?
-          </li>
-
-          <li>
-            We even steal from widows, orphans, and refugees. We take their food
-            and sell it for profit. No conscience. No fear of God. Nothing is
-            sacred. No one is spared.
-          </li>
-
-          <li>
-            Our politicians create lies to win power and manipulate the minds of
-            the ignorant masses.Our architects, engineers and contractors build
-            substandard roads, schools, houses, hospitals, all for profit at the
-            expense of human life; an invaluable item which all our profit and
-            contract sum cannot buy.
-          </li>
-
-          <li>
-            One would think this behavior is reserved for urchins but it would
-            surprise you that this is the character of many decent looking
-            people who appear to be normal but are not any better than Boko
-            Haram members. They are church members, husbands, wives and sadly
-            youths.
-          </li>
-
-          <li>
-            We pervert justice and pretend we do not know right from wrong just
-            to serve our selfish interests. We loot the State and dump the booty
-            in Dubai and Mauritius banks. Slave traders pale in comparison to
-            what we do to ourselves today. We are wickedness personified.
-          </li>
-
-          <li>
-            We take bribe and pay bribes to change judgment, to give what others
-            don't deserve to them, received what is not rightfully ours,to keep
-            quiet whilst the innocent suffer,to deny those who deserve what is
-            due them.
-          </li>
-
-          <li>
-            So much hatred flows in our blood and we transfer it to our
-            children. It's evident in what we say and do.
-          </li>
-
-          <li>
-            We have fasting and prayer sessions all year long, night vigils and
-            deliverance when the actual problem is us.
-          </li>
-
-          <li>
-            We simply cannot learn to love others as the Bible say. It is ME, ME
-            and ME ONLY. That is all that ever matters. It is sickening.
-          </li>
-
-          <li>
-            Remember that God will not come from heaven to build our society for
-            us.We can make our societies,communities and nations heaven or
-            hell.That power lies within us. We can blame no one for what has
-            befallen us as a country.We watch and appear unconcerned while acts
-            of injustice is perpetrated.
+            <p className="margin-bottom-10">
+              Foredem is an acronym for the foundation for reconciliation and
+              democracy. It's a Non Governmental Organization, which has its aim
+              being the promotion of democratic governance and the enhancement
+              of peace and reconciliation amongst ethnic groups in the country
+              to attain progress and development.
+            </p>
           </li>
 
           <li>
             {" "}
-            Any Christian who cannot love has no business in politics,
-            Government and in Ghana.
+            <p className="margin-bottom-10">
+              The organization has been formed solely to complement government
+              efforts of providing the necessary leadership to bring about rapid
+              development. We believe strongly that government should not be the
+              only medium through which development can take place.
+            </p>
+          </li>
+
+          <li>
+            <p className="margin-bottom-10">
+              In this regard, it has its aim the identification of the problems
+              militating against development and consequently suggesting
+              solutions to such problems, some of the problems that crop up as
+              the result of the western style of governance is that the large
+              number of the populace are illiterates. The level of illiteracy
+              has impacted on the practice of democratic governance. This is
+              because people need to understand the basic tenets of democracy so
+              that it can be very successful.
+            </p>
           </li>
 
           <li>
             {" "}
-            Until we understand this, we will continue on this path of
-            destruction.
+            <p className="margin-bottom-10">
+              Foredem has one of its objective the education of many
+              illiterates, it therefore, has plans of providing educational
+              facilities to various parts of the country with the necessary
+              logistics such as qualified resource personal to carry out this
+              objective. The organization believe strongly that a literate
+              population can bring about the success of this kind of political
+              ideology. We also intend to play an active role in educating
+              people of national importance. There are instances when issues
+              crop up and pit various political parties against one another, a
+              classical example is the controversial Representative of People's
+              Amendment Bill (ROPAB) which is now (ROPAL). Since it has been
+              passed into a law in 2007. This issue divided the government and
+              the opposition by then.
+            </p>
           </li>
 
           <li>
-            We litter around and still call on Government to come and clean it
-            for us.
-          </li>
-
-          <li>
-            Others sleep with innocent children in the name of helping them in
-            examination or get Jobs.
-          </li>
-
-          <li>I can Change,</li>
-
-          <li>You can Change,</li>
-
-          <li>They can Change and</li>
-
-          <li>We can Change by Sharing and Spreading this message.</li>
-
-          <li>Change starts with Me....</li>
-
-          <li>and You reading this message.</li>
-
-          <li>
-            <h2>#HelpChangeGhana/SafetyGhana.</h2>
+            <p className="margin-bottom-10">
+              Even at this time, many Ghanaians did not and still did not know
+              what this law is all about. Another important bill which is before
+              parliament is the Right To Information Bill (RTI) that has taken
+              so long for its passage by successful governments. The foundation
+              identifies such a lapse as one of its primary objectives. There
+              are several issues that are of national importance that need to be
+              delved into such as the need for environmental
+              consciousness-keeping our urban and rural areas clean.
+            </p>
           </li>
         </ul>
       </div>

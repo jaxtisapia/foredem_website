@@ -16,7 +16,7 @@ export function OurMissionModal(props){
             <div>
                 <ul className="margin-medium list-items">
                     <li>
-                        Working deprived communities for their upliftment and with emphasis on children and women and provide them livelihood opportunities and them into the mainstream of society
+                        Working for deprived communities for their upliftment and with special emphasis on children and women to provide them livelihood opportunities and bring them into the mainstream of society
                     </li>
                 </ul>
             </div>
