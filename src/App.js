@@ -4,6 +4,7 @@ import './App.css';
 import {LeftView} from "./components/LeftView";
 import {RightView} from "./components/RightView";
 
+
 class App extends Component {
     render() {
         return (

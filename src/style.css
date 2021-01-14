@@ -204,6 +204,26 @@ body.page-template-page-fullsingle-split {
       transition-duration: 0.1s;
       border-bottom: 1px dotted #CA486d; }
 
+.list-header {
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: 11px;
+  line-height: 11px;
+  color: #34495e;
+  letter-spacing: 2px;
+  opacity: 0.5;
+}
+
+.news-list  {
+  list-style: circle;
+}
+.news-list a {
+  font-size: 16px;
+  color: #858e97;
+  letter-spacing: unset;
+  line-height: unset;
+}
+
 .split-lists .split-list {
   width: 30%;
   display: inline-block;
