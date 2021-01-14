@@ -15,6 +15,11 @@ export function AboutFounderModal(props) {
       onCancel={() => props.disable()}
     >
       <div>
+	
+        <div style={{display: "flex", justifyContent: "center"}}>
+	      <img style={{maxWidth: '200px', maxHeight: '200px'}} src="https://user-images.githubusercontent.com/32112641/81606502-bc481300-93c2-11ea-9a86-899653b63106.jpg" />
+        </div>
+        
         <ul className="margin-medium list-items">
           <li>
             <span>
