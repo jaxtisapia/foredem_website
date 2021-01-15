@@ -95,6 +95,11 @@ export class FooterBlock extends Component {
                             <a href="https://www.modernghana.com/news/409370/use-democracy-to-promote-peace-in-dagbon-prince.html">Use
                                 democracy to promote peace in Dagbon</a>
                         </li>
+
+                        <li>
+                            <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/FORDEM-urges-Ghanaians-to-renew-confidence-in-state-institutions-1153979">FORDEM
+                                urges Ghanaians to renew confidence in state institutions</a>
+                        </li>
                     </ul>
 
                 </div>
