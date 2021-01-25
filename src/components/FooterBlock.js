@@ -82,6 +82,10 @@ export class FooterBlock extends Component {
 
                     <ul className="news-list">
                         <li>
+                            <a href="https://www.ghanaweb.com/GhanaHomePage/NewsArchive/The-spread-of-illicit-weapons-causes-conflicts-Mr-Alhassan-240744">The spread of illicit weapons causes conflicts</a>
+                        </li>
+
+                        <li>
                             <a href="https://www.modernghana.com/news/385830/72/foredem-appeals-to-royal-families-in-dagbon-to-bur.html">FOREDEM
                                 appeals to Royal Families in Dagbon to bury their differences</a>
                         </li>
