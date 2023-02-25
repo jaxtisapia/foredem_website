@@ -9,6 +9,7 @@ import {OurAchievementsModal} from "./modals/OurAchievementsModal";
 import {GalleryModal} from "./modals/GalleryModal";
 import {AboutUsModal} from "./modals/AboutUsModal";
 import {AboutFounderModal} from "./modals/AboutFounderModal";
+import {ManagementTeamModal} from "./modals/ManagementTeamModal";
 
 export class FooterBlock extends Component {
     constructor(props) {
@@ -21,7 +22,8 @@ export class FooterBlock extends Component {
             achievementsModalVisible: false,
             galleryModalVisible: false,
             aboutFounderVisible: false,
-            aboutUsVisible: false
+            aboutUsVisible: false,
+            managementTeamVisible: false
         };
     }
 
@@ -45,6 +47,9 @@ export class FooterBlock extends Component {
 
     showAboutUs = () => this.setState({aboutUsVisible: true});
     hideAboutUs = () => this.setState({aboutUsVisible: false});
+
+    showManagementTeam = () => this.setState({managementTeamVisible: true});
+    hideManagementTeam = () => this.setState({managementTeamVisible: false});
 
     render() {
         return (
@@ -75,6 +80,10 @@ export class FooterBlock extends Component {
                 <AboutFounderModal
                     visible={this.state.aboutFounderVisible}
                     disable={this.hideAboutFounder}
+                />
+                <ManagementTeamModal
+                    visible={this.state.managementTeamVisible}
+                    disable={this.hideManagementTeam}
                 />
 
                 <div style={{marginBottom: 48}}>
@@ -120,6 +129,9 @@ export class FooterBlock extends Component {
                         </li>
                         <li>
                             <a onClick={this.showAboutFounder}>About The Founder</a>
+                        </li>
+                        <li>
+                            <a onClick={this.showManagementTeam}>Management Team</a>
                         </li>
                         <li>
                             <a onClick={this.showAboutUs}>About Us</a>

@@ -3,7 +3,6 @@
  */
 
 import React from 'react'
-import { } from 'antd'
 import {Modal} from "antd";
 
 export function OurMissionModal(props){

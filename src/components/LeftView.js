@@ -35,9 +35,11 @@ let bg10 ="http://yesofcorsa.com/wp-content/uploads/2018/07/Child-And-Poverty-Be
 let bg11 ="https://sites.google.com/a/nv.ccsd.net/poverty-in-nicaragua/about/mission/28926e5e4a40b7f90eb7b098f0fd7222.jpg?attredirects=0";
 let bg12 ="https://images.theconversation.com/files/241246/original/file-20181018-67161-q6ladm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip";
 let bg13 ="https://childphotocompetition.com/wp-content/uploads/2014/08/2nd-place-ID-277-documentary-street.jpg";
+let bg14 ="https://user-images.githubusercontent.com/32112641/221374113-f08ab86b-3539-4eca-9bf0-66dd48c13925.jpeg";
+let bg15 ="https://user-images.githubusercontent.com/32112641/221374110-885e7961-4cee-44d3-a509-0b42c3ee9abf.jpeg";
 
 const image_urls = [
-    bg1, bg2, bg3, bg4, bg5, bg6, bg7, bg8, bg9, bg9, bg10, bg11, bg12, bg13
+    bg14, bg15, bg1, bg2, bg3, bg4, bg5, bg6, bg7, bg8, bg9, bg9, bg10, bg11, bg12, bg13
 ];
 
 export class LeftView extends Component {
