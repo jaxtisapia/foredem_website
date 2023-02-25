@@ -18,22 +18,33 @@ export function ContactUsModal(props) {
           <li>
             <span>Abdulai Baba Alhassan</span>
             <br />
-            Adjiriganor East Legon
+            P.O.Box 485
             <br />
-            GPS GD -188-7629 #26 Okpewuo Mensah Ave.
+            Tamale
             <br />
-            foredemgh@yahoo.com
+            Northern Region
             <br />
-            +233-24-412-0134
+            Ghana, West Africa
           </li>
 
           <li>
-            <span>Abdulai Baba Alhassan</span>
+            E446 Galbang Avenue
             <br />
-            Buglan Area, Tamale
+            Dagban Dabba fong
             <br />
-            House #E446
+            Tamale, Northern Region
             <br />
+            Ghana, West Africa
+          </li>
+
+          <li>
+            foredemgh@yahoo.com
+            <br />
+            +233-24-397-1045
+            <br />
+            +233-24-412-0134
+            <br />
+            +233-50-788-1959
           </li>
         </ul>
       </div>
